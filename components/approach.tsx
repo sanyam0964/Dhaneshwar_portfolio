@@ -15,7 +15,7 @@ export const Approach = () => {
 
       <div className="my-20 flex flex-col items-center justify-center gap-4 lg:flex-row">
         <Card
-          title="Planning & Strategy"
+          title="Strategy and Planning"
           icon={<MagicButton title="Phase 1" asChild />}
           description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
         >
