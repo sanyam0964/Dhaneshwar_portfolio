@@ -28,7 +28,7 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/himanshuach/Himanshu_Portfolio.git
+   git clone https://github.com/sanyam0964/Dhaneshwar_portfolio.git
    cd Himanshu_Portfolio
    ```
 
