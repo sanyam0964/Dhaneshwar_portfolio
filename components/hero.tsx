@@ -32,7 +32,7 @@ export const Hero = () => {
             {/* Tagline */}
             <div className="mb-8 inline-flex items-center rounded-full border border-purple-500/20 bg-purple-500/10 px-4 py-2 text-sm font-medium text-purple-300">
               <span className="mr-2">⚡</span>
-              Fullstack Developer Portfolio
+              Frontend Developer Portfolio
             </div>
 
             {/* Main Headline */}
