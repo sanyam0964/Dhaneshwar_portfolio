@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const links = {
   sourceCode: "https://github.com/himanshuach/Himanshu-Portfolio.git",
-  ownerName: "Himanshu Raj",
+  ownerName: "Dhaneshwar Kumar",
   ownerEmail: "himanshuach.842@gmail.com",
   phone: "+91 7634814232",
   linkedin: "https://linkedin.com/in/himanshuach",
