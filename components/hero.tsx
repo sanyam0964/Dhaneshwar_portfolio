@@ -43,7 +43,7 @@ export const Hero = () => {
 
             {/* Description */}
             <p className="mb-10 text-lg text-gray-300 md:text-xl">
-              I'm a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills.
+              I'm a Frontend Developer specializing in React and Next.js. I build fast, responsive, and accessible web interfaces. Explore my projects and skills.
             </p>
 
             {/* Call to Action */}
@@ -67,7 +67,7 @@ export const Hero = () => {
                 <div className="absolute inset-0 bg-grid-white/[0.03] bg-[size:40px_40px] rounded-3xl"></div>
               </div>
 
-              {/* Technology Icons Grid */}
+              {/* Technology Icons Grid - Frontend Focused */}
               <div className="absolute inset-0 p-8 grid grid-cols-3 gap-6">
                 {/* Row 1 */}
                 <div className="flex items-center justify-center">
@@ -82,28 +82,11 @@ export const Hero = () => {
                 </div>
                 <div className="flex items-center justify-center">
                   <div className="w-16 h-16 bg-white/10 rounded-xl flex items-center justify-center border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-110">
-                    <img src="/re.svg" alt="React" className="w-8 h-8" />
-                  </div>
-                </div>
-
-                {/* Row 2 */}
-                <div className="flex items-center justify-center">
-                  <div className="w-16 h-16 bg-white/10 rounded-xl flex items-center justify-center border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-110">
-                    <img src="/host.svg" alt="Node.js" className="w-8 h-8" />
-                  </div>
-                </div>
-                <div className="flex items-center justify-center">
-                  <div className="w-16 h-16 bg-white/10 rounded-xl flex items-center justify-center border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-110">
-                    <img src="/c.svg" alt="MongoDB" className="w-8 h-8" />
-                  </div>
-                </div>
-                <div className="flex items-center justify-center">
-                  <div className="w-16 h-16 bg-white/10 rounded-xl flex items-center justify-center border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-110">
                     <img src="/next.svg" alt="Next.js" className="w-8 h-8" />
                   </div>
                 </div>
 
-                {/* Row 3 */}
+                {/* Row 2 */}
                 <div className="flex items-center justify-center">
                   <div className="w-16 h-16 bg-white/10 rounded-xl flex items-center justify-center border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-110">
                     <img src="/git.svg" alt="Git" className="w-8 h-8" />
@@ -116,7 +99,24 @@ export const Hero = () => {
                 </div>
                 <div className="flex items-center justify-center">
                   <div className="w-16 h-16 bg-white/10 rounded-xl flex items-center justify-center border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-110">
-                    <img src="/fm.svg" alt="Flutter" className="w-8 h-8" />
+                    <img src="/fm.svg" alt="Framer Motion" className="w-8 h-8" />
+                  </div>
+                </div>
+
+                {/* Row 3 */}
+                <div className="flex items-center justify-center">
+                  <div className="w-16 h-16 bg-white/10 rounded-xl flex items-center justify-center border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-110">
+                    <img src="/gsap.svg" alt="GSAP" className="w-8 h-8" />
+                  </div>
+                </div>
+                <div className="flex items-center justify-center">
+                  <div className="w-16 h-16 bg-white/10 rounded-xl flex items-center justify-center border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-110">
+                    <img src="/three.svg" alt="Three.js" className="w-8 h-8" />
+                  </div>
+                </div>
+                <div className="flex items-center justify-center">
+                  <div className="w-16 h-16 bg-white/10 rounded-xl flex items-center justify-center border border-white/20 hover:bg-white/20 transition-all duration-300 hover:scale-110">
+                    <img src="/re.svg" alt="React" className="w-8 h-8" />
                   </div>
                 </div>
               </div>

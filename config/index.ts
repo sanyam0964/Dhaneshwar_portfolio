@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 export const links = {
   sourceCode: "https://github.com/himanshuach/Himanshu-Portfolio.git",
   ownerName: "Dhaneshwar Kumar",
-  ownerEmail: "himanshuach.842@gmail.com",
-  phone: "+91 7634814232",
+  ownerEmail: "rajsanyam@gmail.com",
+  phone: "+91 6204144364",
   linkedin: "https://linkedin.com/in/himanshuach",
   github: "https://github.com/himanshuach",
   leetcode: "https://leetcode.com/himanshuach",
@@ -12,7 +12,7 @@ export const links = {
 
 export const siteConfig: Metadata = {
   title: `${links.ownerName}'s Portfolio`,
-  description: "Full Stack Developer skilled in ReactJS, Node.js, and UI/UX design. Passionate about building scalable, responsive, and user-friendly web applications.",
+  description: "Frontend Developer skilled in React, Next.js, TypeScript, and modern UI/UX. Passionate about building fast, accessible, and responsive web experiences.",
   keywords: [
     "fullstack",
     "reactjs",

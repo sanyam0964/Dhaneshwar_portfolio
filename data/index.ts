@@ -10,8 +10,8 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "Full Stack Developer",
-    description: "Passionate about building scalable, responsive, and user-friendly web applications",
+    title: "Frontend Developer",
+    description: "Clean, performant UIs built with React, Next.js, and TypeScript",
     className: "lg:col-span-4 md:col-span-4 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
@@ -40,7 +40,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Passionate about creating innovative solutions",
+    title: "Crafting intuitive, accessible user experiences",
     description: "",
     className: "lg:col-span-2 md:col-span-2 md:row-span-1",
     imgClassName: "",
@@ -50,7 +50,7 @@ export const gridItems = [
   },
   {
     id: 5,
-    title: "Currently working on Chat App using MERN Stack",
+    title: "Currently building animated UIs with Next.js & Framer Motion",
     description: "",
     className: "lg:col-span-4 md:col-span-4 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -258,8 +258,8 @@ export const skills = [
   },
   {
     id: 2,
-    title: "Backend",
-    skills: ["Node.js", "Express.js", "REST APIs", "MongoDB"],
+    title: "Frontend Frameworks & Tools",
+    skills: ["Next.js", "TypeScript", "Framer Motion", "GSAP", "Redux Toolkit", "Accessibility"],
   },
   {
     id: 3,
